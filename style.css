@@ -1,34 +1,33 @@
 
-
-/*.logo {
+header {
     display: flex;
+    align-items: center;
+    justify-content: flex-end;
 }
 
-.logo-text {
-    text-align: center;
-}
-
-.lg {
-    color: yellow;
+.logo {
+    display: flex;
+    align-items: center;
+    margin-right: auto;
 }
 
 .nav-links {
-    float: right;
     list-style: none;
-    padding-right: 20px;
+    margin-right: 20px;
 }
 
 .nav-links li {
     display: inline-block;
+    padding: 0px 20px;
+    margin-right: 20px;
+}
+
+.nav-links li a {
+    text-decoration: none;
+    color: black;
 }
 
 .cart {
-    height: 10px;
-    margin-top: 0;
-    padding-top: 0;
-}*/
-
-.container {
-    display: flex;
-    align-items: center;
+    height: 15px;
+    margin-right: 20px;
 }
