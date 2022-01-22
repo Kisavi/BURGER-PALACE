@@ -1,5 +1,5 @@
-
-header {
+/*Start of Navbar section*/
+.nav-bar {
     display: flex;
     align-items: center;
     justify-content: flex-end;
@@ -9,6 +9,10 @@ header {
     display: flex;
     align-items: center;
     margin-right: auto;
+}
+
+.lg {
+    color: yellow;
 }
 
 .nav-links {
@@ -31,3 +35,4 @@ header {
     height: 15px;
     margin-right: 20px;
 }
+/*End of Navbar section*/
