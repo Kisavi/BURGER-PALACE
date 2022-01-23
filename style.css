@@ -95,6 +95,7 @@
     display: flex;
     padding-top: 10rem;
     padding-bottom: 10rem;
+    background-color: #dae8f7;
 }
 
 .card {
@@ -128,8 +129,18 @@
     text-align: center;
 }
 
+.menu-head {
+    color: #f6B400;
+}
+
 .row {
     display: flex;
+}
+
+.card {
+    border-style: none;
+    border-radius: 25px;
+    box-shadow: 1px 2.5px 2.5px 1px rgb(185, 177, 177);
 }
 
 .card-imag {
