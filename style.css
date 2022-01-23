@@ -1,4 +1,12 @@
 /*Start of Navbar section*/
+*{
+    font-family: 'poppins';
+}
+
+.container-1 {
+    background-color: rgb(214, 214, 214);
+    height: 100vh;
+}
 .nav-bar {
     display: flex;
     align-items: center;
@@ -36,11 +44,42 @@
     margin-right: 20px;
 }
 /*End of Navbar section*/
+/*Rest of header section*/
+.row-1 {
+    display: flex;
+    align-items: center;
+}
+
+.text-container {
+    box-sizing: border-box;
+    width: 800px;
+}
+
+.bur {
+    height: 500px;
+}
+
+.rs {
+    font-size: 50px;
+}
+
+.sr {
+    color: grey;
+    font-size: 20px;
+}
+
+.btn {
+    background-color: orange;
+    color: white;
+    border-style: none;
+    border-radius: 10px 10px 0px 10px;
+}
+/*End of header section*/
 
 .card-image {
     height: 25px;
 }
 
-.bur {
-    height: 100px;
-}
+
+
+
