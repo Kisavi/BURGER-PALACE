@@ -255,4 +255,18 @@ form input {
 }
 /*End of footer links section*/
 /*footer section*/
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 20px;
+}
+
+.f-links {
+    margin-top: 15px;
+}
+
+.icon {
+    height: 20px;
+}
+/*End of footer section*/
 
