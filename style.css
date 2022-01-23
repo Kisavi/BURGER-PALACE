@@ -80,7 +80,7 @@
 /*About section*/
 .about {
     display: flex;
-    background-color: rgb(164, 185, 185);
+    background-color: rgb(128, 128, 128);
     padding-top: 10rem;
     padding-bottom: 5rem;
 }
@@ -100,9 +100,36 @@
 }
 
 .card-image {
-    height: 50px;
+    height: 100px;
 }
 /*End of about section*/
+/*Menu section*/
+.menu {
+    padding-top: 60px;
+    padding-bottom: 45px;
+    text-align: center;
+}
+
+.row {
+    display: flex;
+}
+
+.card-imag {
+    height: 200px;
+}
+
+.price {
+    display: inline-block;
+}
+
+.p-cart {
+    height: 35px;
+    background-color: #E1EBE6;
+    padding: 10PX 25PX;
+    border-radius: 20PX;
+}
+/*End of Menu section*/
+
 
 
 
