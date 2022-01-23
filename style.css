@@ -106,7 +106,7 @@
 /*Menu section*/
 .menu {
     padding-top: 60px;
-    padding-bottom: 45px;
+    padding-bottom: 7rem;
     text-align: center;
 }
 
@@ -129,6 +129,33 @@
     border-radius: 20PX;
 }
 /*End of Menu section*/
+/*Double decker section*/
+.dd {
+    display: flex;
+    background-color: #dae8f7;
+    padding-top: 8rem;
+    padding-bottom: 6rem;
+}
+
+/*.dd-1 {
+    position: absolute;
+    z-index: 2;
+}
+
+.dd-2 {
+    position: absolute;
+    z-index: 1;
+}
+
+.image-dd {
+    margin-bottom: 10rem;
+}*/
+
+.dd-images {
+    height: 450px;
+}
+/*End of Double decker section*/
+/*Discover more section*/
 
 
 
