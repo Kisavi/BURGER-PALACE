@@ -170,6 +170,14 @@
     padding-bottom: 6rem;
 }
 
+.texT-container {
+    margin: 50px 40px;
+}
+
+.texT-container p {
+    color: grey;
+}
+
 .dd-png {
     display: grid;
     grid-template-columns: repeat(12, 1fr);
