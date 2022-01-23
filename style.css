@@ -93,7 +93,6 @@
 /*About section*/
 .about {
     display: flex;
-    background-color: rgb(128, 128, 128);
     padding-top: 10rem;
     padding-bottom: 10rem;
 }
@@ -101,7 +100,7 @@
 .card {
     margin: 10px;
     border-style: solid;
-    border-color: blue;
+    border-color: grey;
     border-radius: 5px;
     border-width: thin;
     text-align: center;
