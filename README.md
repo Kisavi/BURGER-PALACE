@@ -1,5 +1,5 @@
 # Week-1-IP
-#### Short description and creation date {A burger commerce site.} {It is up to date as I designed it on 23rd January 2022}
+#### Short description and creation date {A burger commerce site for Burger Palace.} {It is up to date as I designed it on 23rd January 2022}
 #### Author and other contributors {Denis Kisavi}
 ## Description{This is a website that I made purposefly for a client who has a burger-selling business. I can modifiy it to be tailor made for other users with different but almost similar needs.}
 ## Setup {All you need to do is launch it on a live server and additional links will also be provided to preview how this site functions.}
